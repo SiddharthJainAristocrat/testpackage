@@ -1,7 +1,7 @@
 [![npm package](https://img.shields.io/npm/v/com.3d-group.unity-package-template)](https://www.npmjs.com/package/com.3d-group.unity-package-template)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Unity package template
+# Unity package template updated
 
 This is a template repository for creating new repositories for upm (Unity Package Manager) packages.
 
